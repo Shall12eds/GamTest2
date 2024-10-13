@@ -1,0 +1,1 @@
+nessa versão eu adicionei um sistema de 10 raridades em que a cada enter no console realizado pelo usuario uma raridade da mais baixa pra mais alta é sorteada em que se nao for o numero correto na raridade que seria 1, a proxima raridade é sorteada sendo mais dificil de ser sorteada
